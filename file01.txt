@@ -1,2 +1,6 @@
-count=6
+<<<<<<< HEAD
+count=7
+=======
+count=5
+>>>>>>> dev
 
